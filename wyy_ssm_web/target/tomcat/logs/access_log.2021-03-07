@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:57:22 +0800] "GET /wyy_ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-2 122
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:57:22 +0800] "GET /wyy_ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-1 16
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:57:23 +0800] "GET /wyy_ssm_web/login.jsp HTTP/1.1" 200 2615 http-bio-8888-exec-3 926
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:57:28 +0800] "POST /wyy_ssm_web/login.do HTTP/1.1" 200 13099 http-bio-8888-exec-5 1791
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:57:33 +0800] "GET /wyy_ssm_web/sysLog/findAll.do HTTP/1.1" 200 52101 http-bio-8888-exec-6 531
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:58:32 +0800] "POST /wyy_ssm_web/login.do HTTP/1.1" 200 13099 http-bio-8888-exec-7 109
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:21:58:35 +0800] "GET /wyy_ssm_web/sysLog/findAll.do HTTP/1.1" 200 17560 http-bio-8888-exec-9 40
